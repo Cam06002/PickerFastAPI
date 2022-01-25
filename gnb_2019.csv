@@ -1,0 +1,21 @@
+day,w_l,ot,rec,location,opp,TeamPoints,OppPoints,Firsts,TotYdO,PassYO,RushYO,TeamTOs,FirstsA,TotYdA,PassYA,RushYA,ForcedTOs,Week
+September 5,W,0,1-0,Away,Chicago Bears,10,3,13,213,166,47,0,16,254,208,46,1,1
+September 15,W,0,2-0,Home,Minnesota Vikings,21,16,20,335,191,144,2,15,421,223,198,4,2
+September 22,W,0,3-0,Home,Denver Broncos,27,16,16,312,235,77,0,20,310,161,149,3,3
+September 26,L,0,3-1,Home,Philadelphia Eagles,27,34,31,491,414,77,2,24,336,160,176,0,4
+October 6,W,0,4-1,Away,Dallas Cowboys,34,24,24,335,215,120,0,32,563,441,122,3,5
+October 14,W,0,5-1,Home,Detroit Lions,23,22,22,447,277,170,3,13,299,243,56,0,6
+October 20,W,0,6-1,Home,Oakland Raiders,42,24,22,481,421,60,0,21,484,329,155,2,7
+October 27,W,0,7-1,Away,Kansas City Chiefs,31,24,21,374,256,118,0,21,337,249,88,1,8
+November 3,L,0,7-2,Away,Los Angeles Chargers,11,26,13,184,139,45,0,24,442,283,159,0,9
+November 10,W,0,8-2,Home,Carolina Panthers,24,16,23,388,225,163,0,26,401,281,120,2,10
+0,0,0,0,Home,Bye Week,0,0,0,0,0,0,0,0,0,0,0,0,11
+November 24,L,0,8-3,Away,San Francisco 49ers,8,37,19,198,81,117,1,16,339,227,112,0,12
+December 1,W,0,9-3,Away,New York Giants,31,13,19,322,243,79,0,20,335,240,95,3,13
+December 8,W,0,10-3,Home,Washington Redskins,20,15,18,341,167,174,1,18,262,141,121,1,14
+December 15,W,0,11-3,Home,Chicago Bears,21,13,12,292,192,100,0,20,415,319,96,3,15
+December 23,W,0,12-3,Away,Minnesota Vikings,23,10,22,383,199,184,3,7,139,82,57,1,16
+December 29,W,0,13-3,Away,Detroit Lions,23,20,25,432,312,120,1,17,305,134,171,1,17
+Playoffs,0,0,0,Home,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+January 12,W,0,14-3,Home,Seattle Seahawks,28,23,22,344,235,109,0,23,375,265,110,0,19
+January 19,L,0,14-4,Away,San Francisco 49ers,20,37,21,358,296,62,3,19,354,69,285,0,20

@@ -1,0 +1,18 @@
+day,w_l,ot,rec,location,opp,TeamPoints,OppPoints,Firsts,TotYdO,PassYO,RushYO,TeamTOs,FirstsA,TotYdA,PassYA,RushYA,ForcedTOs,Week
+September 9,W,0,1-0,Home,Chicago Bears,24,23,16,370,301,69,2,18,294,155,139,1,1
+September 16,T,OT,1-0-1,Home,Minnesota Vikings,29,29,24,351,253,98,0,24,480,412,68,1,2
+September 23,L,0,1-1-1,Away,Washington Redskins,17,31,19,340,240,100,1,20,386,220,166,1,3
+September 30,W,0,2-1-1,Home,Buffalo Bills,22,0,22,423,282,141,2,11,145,87,58,3,4
+October 7,L,0,2-2-1,Away,Detroit Lions,23,31,30,521,423,98,3,18,264,170,94,0,5
+October 15,W,0,3-2-1,Home,San Francisco 49ers,33,30,26,521,405,116,0,18,401,227,174,3,6
+0,0,0,0,Home,Bye Week,0,0,0,0,0,0,0,0,0,0,0,0,7
+October 28,L,0,3-3-1,Away,Los Angeles Rams,27,29,16,359,253,106,1,23,416,281,135,0,8
+November 4,L,0,3-4-1,Away,New England Patriots,17,31,22,367,250,117,1,28,433,310,123,0,9
+November 11,W,0,4-4-1,Home,Miami Dolphins,31,12,21,377,182,195,1,19,294,163,131,2,10
+November 15,L,0,4-5-1,Away,Seattle Seahawks,24,27,14,359,311,48,0,23,378,205,173,1,11
+November 25,L,0,4-6-1,Away,Minnesota Vikings,17,24,14,254,172,82,1,22,416,325,91,0,12
+December 2,L,0,4-7-1,Home,Arizona Cardinals,17,20,22,325,227,98,0,18,315,133,182,0,13
+December 9,W,0,5-7-1,Home,Atlanta Falcons,34,20,23,300,162,138,0,22,344,237,107,2,14
+December 16,L,0,5-8-1,Away,Chicago Bears,17,24,19,323,235,88,1,19,332,232,100,1,15
+December 23,W,OT,6-8-1,Away,New York Jets,44,38,35,540,413,127,1,23,370,323,47,0,16
+December 30,L,0,6-9-1,Home,Detroit Lions,0,31,9,175,129,46,1,25,402,272,130,0,17
